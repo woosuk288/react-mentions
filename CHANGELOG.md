@@ -1,5 +1,11 @@
 # react-mentions
 
+## 4.4.8
+
+### Patch Changes
+
+- ad43016: typing fix in SuggestionsOverlay.js
+
 ## 4.4.7
 
 ### Patch Changes
